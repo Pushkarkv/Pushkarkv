@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:A855F7&height=210&section=header&text=Pushkar%20Verma&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Agentic%20AI&descAlignY=55&descSize=19&animation=fadeIn" width="100%" alt="Pushkar Verma: Data Scientist, Machine Learning, Agentic AI"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:A855F7&height=210&section=header&text=Pushkar%20Verma&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=Lead%20Machine%20Learning%20Engineer%20%E2%80%A2%20GenAI%20%E2%80%A2%20MLOps&descAlignY=55&descSize=19&animation=fadeIn" width="100%" alt="Pushkar Verma: Lead Machine Learning Engineer, GenAI, MLOps"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=38BDF8&background=00000000&center=true&vCenter=true&width=700&lines=Data+Scientist+%40+Ericsson;Building+ML+systems+end+to+end;LightGBM+%E2%80%A2+BiLSTM+%E2%80%A2+DistilBERT+%E2%80%A2+LangGraph;Pipelines+on+GCP%2C+apps+on+Vercel+%26+Render;From+raw+data+to+a+live+demo;Based+in+Noida%2C+India" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=38BDF8&background=00000000&center=true&vCenter=true&width=700&lines=Lead+Machine+Learning+Engineer+%40+Medi+Assist;7%2B+years+in+data+science+and+ML;Ex-Data+Scientist+%40+Ericsson;Agentic+AI+%E2%80%A2+RAG+%E2%80%A2+Vision-Language+Models;MLOps+on+GCP%3A+Vertex+AI%2C+BigQuery%2C+Cloud+Run;From+raw+data+to+a+live+demo" alt="Typing SVG"/>
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IiMwRjE3MkEiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/pushkarverma28)
 [![Gmail](https://img.shields.io/badge/Gmail-A78BFA?style=for-the-badge&logo=gmail&logoColor=0F172A)](mailto:pushkarkv28@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=Pushkarkv&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile views"/>
 
@@ -16,19 +17,21 @@
 ## 👋 About Me
 
 ```yaml
-name    : Pushkar Verma
-based   : Noida, Uttar Pradesh, India
-role    : Data Scientist @ Ericsson India Global Services
-joined  : Ericsson in September 2019
-focus   : Machine Learning · NLP · Agentic AI · Data Pipelines on GCP
-stack   : Python · SQL · TypeScript · BigQuery · FastAPI · Next.js
+name       : Pushkar Verma
+role       : Lead Machine Learning Engineer @ Medi Assist (Feb 2025 – present)
+previously : Data Scientist @ Ericsson (Sep 2019 – Feb 2025)
+experience : 7+ years in data science and machine learning
+education  : Executive PG Programme in ML & AI, IIIT Bangalore
+focus      : Agentic AI · RAG · Document AI · Forecasting · MLOps on GCP
 ```
 
-- 📡 **Data Scientist** @ Ericsson: joined Ericsson in September 2019 and moved into data science.
-- 🧑‍🏫 **In-house trainer**: wrote the [theory and hands-on material](https://github.com/Pushkarkv/Training-Material) for the training sessions I ran for my SDU at Ericsson.
-- 🤖 **Agentic AI**: LangGraph and custom multi-agent systems that write BigQuery SQL, search the web, draw charts in a sandbox and fail over across five LLM providers.
-- 📈 **Applied ML**: gradient boosting, BiLSTMs and fine-tuned transformers for stock markets, content moderation and hospital costs, tested on held-out data with walk-forward splits for time series and per-identity fairness checks for text.
-- ☁️ **Shipping**: data pipelines on GCP (BigQuery, Cloud Run, Cloud Build) and apps on Vercel, Render, Hugging Face Spaces and Streamlit Community Cloud. All five ML projects below are live.
+- 🤖 **Agentic AI**: LangGraph and Google ADK agents with tool calling, NL-to-SQL and RAG, with privacy guardrails and access control around what each agent can see and do.
+- 📄 **Document AI**: OCR, layout models such as LayoutLM, and vision-language models that turn scanned documents into structured data.
+- 📈 **Applied ML**: forecasting, regression, classification and risk models with gradient boosting and deep learning, explained with SHAP.
+- 🔧 **LLM fine-tuning and self-hosting**: LoRA fine-tuning, Hugging Face Transformers, and self-hosted models on Ollama.
+- ☁️ **MLOps on GCP**: Vertex AI with Model Registry and RAG Engine, BigQuery, Cloud Run, Cloud Build and Pub/Sub, packaged with Docker and served with FastAPI.
+- 🧑‍🏫 **Mentoring**: at Ericsson I ran 17 theory and hands-on ML training sessions that prepared engineers for intermediate and advanced ML certifications, using [material I wrote](https://github.com/Pushkarkv/Training-Material).
+- 🚀 **Side projects**: complete ML apps for stock markets, cricket analytics, content moderation and hospital costs. All five ML projects below are live.
 
 > *"From raw data to a live demo: every ML project here runs end to end."*
 
@@ -48,33 +51,60 @@ stack   : Python · SQL · TypeScript · BigQuery · FastAPI · Next.js
 
 <br/>
 
+## 💼 Experience
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 Lead Machine Learning Engineer</h3>
+      <p><b>Medi Assist Healthcare Services</b> · Feb 2025 – Present</p>
+      <p>I lead ML and GenAI systems from design to production, covering document understanding, LLM agents, predictive models and support automation.</p>
+      <p><code>Agentic AI</code> <code>LangGraph</code> <code>NL-to-SQL</code> <code>RAG</code> <code>LLM guardrails</code> <code>Vision-language models</code> <code>OCR</code> <code>LoRA fine-tuning</code> <code>Similarity search</code> <code>Dialogflow CX</code> <code>Vertex AI</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 Data Scientist</h3>
+      <p><b>Ericsson India</b> · Sep 2019 – Feb 2025</p>
+      <p>I built machine learning for telecom network operations with radio access, transmission and incident management teams, and trained engineers in ML.</p>
+      <p><code>Time-series forecasting</code> <code>NLP classification</code> <code>Telemetry data</code> <code>Real-time KPI dashboards</code> <code>Feature engineering</code> <code>ML training</code></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ## 🧠 Tech Stack
 
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=py,ts,js,html,css&theme=dark&perline=10" alt="Python, TypeScript, JavaScript, HTML, CSS"/>
 
-**Machine Learning & Data**
+<img src="https://img.shields.io/badge/SQL-1E293B?style=flat-square" alt="SQL"/>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=10" alt="TensorFlow, PyTorch, scikit-learn"/>
+**Generative AI & LLMs**
 
-<img src="https://img.shields.io/badge/LightGBM-1E293B?style=flat-square" alt="LightGBM"/> <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-1E293B?style=flat-square&logo=huggingface&logoColor=38BDF8" alt="Hugging Face Transformers"/> <img src="https://img.shields.io/badge/SHAP-1E293B?style=flat-square" alt="SHAP"/> <img src="https://img.shields.io/badge/pandas-1E293B?style=flat-square&logo=pandas&logoColor=38BDF8" alt="pandas"/> <img src="https://img.shields.io/badge/NumPy-1E293B?style=flat-square&logo=numpy&logoColor=38BDF8" alt="NumPy"/> <img src="https://img.shields.io/badge/Plotly-1E293B?style=flat-square&logo=plotly&logoColor=38BDF8" alt="Plotly"/> <img src="https://img.shields.io/badge/Jupyter-1E293B?style=flat-square&logo=jupyter&logoColor=38BDF8" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/LangGraph-1E293B?style=flat-square&logo=langgraph&logoColor=38BDF8" alt="LangGraph"/> <img src="https://img.shields.io/badge/LangChain-1E293B?style=flat-square&logo=langchain&logoColor=38BDF8" alt="LangChain"/> <img src="https://img.shields.io/badge/Google%20ADK-1E293B?style=flat-square&logo=google&logoColor=38BDF8" alt="Google ADK"/> <img src="https://img.shields.io/badge/RAG-1E293B?style=flat-square" alt="RAG"/> <img src="https://img.shields.io/badge/LoRA%20Fine--Tuning-1E293B?style=flat-square" alt="LoRA fine-tuning"/> <img src="https://img.shields.io/badge/Ollama-1E293B?style=flat-square&logo=ollama&logoColor=38BDF8" alt="Ollama"/> <img src="https://img.shields.io/badge/Vision--Language%20Models-1E293B?style=flat-square" alt="Vision-language models"/> <img src="https://img.shields.io/badge/LayoutLM-1E293B?style=flat-square" alt="LayoutLM"/> <img src="https://img.shields.io/badge/Hugging%20Face-1E293B?style=flat-square&logo=huggingface&logoColor=38BDF8" alt="Hugging Face"/> <img src="https://img.shields.io/badge/Dialogflow%20CX-1E293B?style=flat-square&logo=dialogflow&logoColor=38BDF8" alt="Dialogflow CX"/> <img src="https://img.shields.io/badge/Google%20Gemini-1E293B?style=flat-square&logo=googlegemini&logoColor=38BDF8" alt="Google Gemini"/>
 
-**GenAI & Agents**
+**Machine Learning & Deep Learning**
 
-<img src="https://img.shields.io/badge/LangGraph-1E293B?style=flat-square&logo=langgraph&logoColor=38BDF8" alt="LangGraph"/> <img src="https://img.shields.io/badge/LangChain-1E293B?style=flat-square&logo=langchain&logoColor=38BDF8" alt="LangChain"/> <img src="https://img.shields.io/badge/Google%20Gemini-1E293B?style=flat-square&logo=googlegemini&logoColor=38BDF8" alt="Google Gemini"/> <img src="https://img.shields.io/badge/Groq-1E293B?style=flat-square" alt="Groq"/> <img src="https://img.shields.io/badge/Mistral%20AI-1E293B?style=flat-square&logo=mistralai&logoColor=38BDF8" alt="Mistral AI"/> <img src="https://img.shields.io/badge/NVIDIA%20NIM-1E293B?style=flat-square&logo=nvidia&logoColor=38BDF8" alt="NVIDIA NIM"/> <img src="https://img.shields.io/badge/OpenRouter-1E293B?style=flat-square&logo=openrouter&logoColor=38BDF8" alt="OpenRouter"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark&perline=10" alt="PyTorch, TensorFlow, scikit-learn"/>
 
-**APIs & Frontends**
+<img src="https://img.shields.io/badge/Keras-1E293B?style=flat-square&logo=keras&logoColor=38BDF8" alt="Keras"/> <img src="https://img.shields.io/badge/XGBoost-1E293B?style=flat-square" alt="XGBoost"/> <img src="https://img.shields.io/badge/CatBoost-1E293B?style=flat-square" alt="CatBoost"/> <img src="https://img.shields.io/badge/LightGBM-1E293B?style=flat-square" alt="LightGBM"/> <img src="https://img.shields.io/badge/SHAP-1E293B?style=flat-square" alt="SHAP"/> <img src="https://img.shields.io/badge/MLflow-1E293B?style=flat-square&logo=mlflow&logoColor=38BDF8" alt="MLflow"/> <img src="https://img.shields.io/badge/pandas-1E293B?style=flat-square&logo=pandas&logoColor=38BDF8" alt="pandas"/> <img src="https://img.shields.io/badge/NumPy-1E293B?style=flat-square&logo=numpy&logoColor=38BDF8" alt="NumPy"/> <img src="https://img.shields.io/badge/Matplotlib-1E293B?style=flat-square" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Seaborn-1E293B?style=flat-square" alt="Seaborn"/> <img src="https://img.shields.io/badge/Plotly-1E293B?style=flat-square&logo=plotly&logoColor=38BDF8" alt="Plotly"/>
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,nextjs,react&theme=dark&perline=10" alt="FastAPI, Node.js, Next.js, React"/>
+**ML Domains**
 
-<img src="https://img.shields.io/badge/Streamlit-1E293B?style=flat-square&logo=streamlit&logoColor=38BDF8" alt="Streamlit"/>
+`NLP` `Regression` `Classification` `Transformers & Attention` `Autoencoders` `Anomaly Detection` `Time-Series Forecasting` `Document AI & OCR` `Explainable AI (SHAP, Permutation Importance)` `Recommendation Systems (Matrix Factorization)`
 
-**Cloud, Data & DevOps**
+**Cloud & MLOps (GCP)**
 
-<img src="https://skillicons.dev/icons?i=gcp,docker,vercel,git,github,vscode&theme=dark&perline=10" alt="Google Cloud, Docker, Vercel, Git, GitHub, VS Code"/>
+<img src="https://skillicons.dev/icons?i=gcp,docker,git,github&theme=dark&perline=10" alt="Google Cloud, Docker, Git, GitHub"/>
 
-<img src="https://img.shields.io/badge/BigQuery-1E293B?style=flat-square&logo=googlebigquery&logoColor=38BDF8" alt="BigQuery"/> <img src="https://img.shields.io/badge/Cloud%20Run-1E293B?style=flat-square&logo=googlecloud&logoColor=38BDF8" alt="Cloud Run"/> <img src="https://img.shields.io/badge/Render-1E293B?style=flat-square&logo=render&logoColor=38BDF8" alt="Render"/> <img src="https://img.shields.io/badge/Hugging%20Face%20Spaces-1E293B?style=flat-square&logo=huggingface&logoColor=38BDF8" alt="Hugging Face Spaces"/> <img src="https://img.shields.io/badge/Streamlit%20Cloud-1E293B?style=flat-square&logo=streamlit&logoColor=38BDF8" alt="Streamlit Community Cloud"/>
+<img src="https://img.shields.io/badge/Vertex%20AI-1E293B?style=flat-square&logo=googlecloud&logoColor=38BDF8" alt="Vertex AI"/> <img src="https://img.shields.io/badge/Model%20Registry-1E293B?style=flat-square&logo=googlecloud&logoColor=38BDF8" alt="Vertex AI Model Registry"/> <img src="https://img.shields.io/badge/RAG%20Engine-1E293B?style=flat-square&logo=googlecloud&logoColor=38BDF8" alt="Vertex AI RAG Engine"/> <img src="https://img.shields.io/badge/BigQuery-1E293B?style=flat-square&logo=googlebigquery&logoColor=38BDF8" alt="BigQuery"/> <img src="https://img.shields.io/badge/Bigtable-1E293B?style=flat-square&logo=googlebigtable&logoColor=38BDF8" alt="Bigtable"/> <img src="https://img.shields.io/badge/Cloud%20Run-1E293B?style=flat-square&logo=googlecloud&logoColor=38BDF8" alt="Cloud Run"/> <img src="https://img.shields.io/badge/Cloud%20Build-1E293B?style=flat-square&logo=googlecloud&logoColor=38BDF8" alt="Cloud Build"/> <img src="https://img.shields.io/badge/Pub%2FSub-1E293B?style=flat-square&logo=googlepubsub&logoColor=38BDF8" alt="Pub/Sub"/> <img src="https://img.shields.io/badge/Firestore-1E293B?style=flat-square&logo=firebase&logoColor=38BDF8" alt="Firestore"/>
+
+**APIs, Apps & Hosting**
+
+<img src="https://skillicons.dev/icons?i=fastapi,nextjs,react&theme=dark&perline=10" alt="FastAPI, Next.js, React"/>
+
+<img src="https://img.shields.io/badge/Streamlit-1E293B?style=flat-square&logo=streamlit&logoColor=38BDF8" alt="Streamlit"/> <img src="https://img.shields.io/badge/Vercel-1E293B?style=flat-square&logo=vercel&logoColor=38BDF8" alt="Vercel"/> <img src="https://img.shields.io/badge/Render-1E293B?style=flat-square&logo=render&logoColor=38BDF8" alt="Render"/> <img src="https://img.shields.io/badge/Hugging%20Face%20Spaces-1E293B?style=flat-square&logo=huggingface&logoColor=38BDF8" alt="Hugging Face Spaces"/>
 
 <br/>
 
@@ -114,22 +144,22 @@ stack   : Python · SQL · TypeScript · BigQuery · FastAPI · Next.js
       <a href="https://github.com/Pushkarkv/Quantamental_SwingTrading_Strategy"><img src="https://img.shields.io/badge/Repo-View%20%E2%86%97-A78BFA?style=flat-square&logo=github&logoColor=0F172A" alt="Repository"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Quant Research Copilot</h3>
-      <p>Agentic research terminal for Indian stocks. Agents turn plain-English questions into BigQuery SQL from 20+ indicator templates, pull news from five sources, rate each stock STRONG, WATCH or CAUTION, and write a research report. An LLM router fails over across five providers.</p>
-      <p><code>FastAPI</code> <code>BigQuery</code> <code>Next.js</code> <code>Multi-agent</code> <code>LLM router</code></p>
-      <img src="https://img.shields.io/badge/Status-Live-38BDF8?style=flat-square" alt="Status: live"/>
-      <a href="https://stock-screener-private.onrender.com/"><img src="https://img.shields.io/badge/Demo-Live%20%E2%86%97-38BDF8?style=flat-square&logo=render&logoColor=0F172A" alt="Live demo"/></a>
-      <a href="https://github.com/Pushkarkv/STOCK_SCREENER"><img src="https://img.shields.io/badge/Repo-View%20%E2%86%97-A78BFA?style=flat-square&logo=github&logoColor=0F172A" alt="Repository"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>🏏 Stumped AI</h3>
       <p>IPL analytics assistant built on a LangGraph state machine. Questions go either to a SQL agent on BigQuery, which can hand its results to a chart agent that runs Plotly code in a sandbox, or to a web-search agent for trivia. Guardrails cover topic, rate limits and SQL safety.</p>
       <p><code>LangGraph</code> <code>BigQuery</code> <code>Plotly</code> <code>Streamlit</code> <code>Multi-LLM</code></p>
       <img src="https://img.shields.io/badge/Status-Live-38BDF8?style=flat-square" alt="Status: live"/>
       <a href="https://stumped-ai.onrender.com/"><img src="https://img.shields.io/badge/Demo-Live%20%E2%86%97-38BDF8?style=flat-square&logo=render&logoColor=0F172A" alt="Live demo"/></a>
       <a href="https://github.com/Pushkarkv/stumped-ai"><img src="https://img.shields.io/badge/Repo-View%20%E2%86%97-A78BFA?style=flat-square&logo=github&logoColor=0F172A" alt="Repository"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Quant Research Copilot</h3>
+      <p>Agentic research terminal for Indian stocks. Agents turn plain-English questions into BigQuery SQL from 20+ indicator templates, pull news from five sources, rate each stock STRONG, WATCH or CAUTION, and write a research report. An LLM router fails over across five providers.</p>
+      <p><code>FastAPI</code> <code>BigQuery</code> <code>Next.js</code> <code>Multi-agent</code> <code>LLM router</code></p>
+      <img src="https://img.shields.io/badge/Status-Live-38BDF8?style=flat-square" alt="Status: live"/>
+      <a href="https://stock-screener-private.onrender.com/"><img src="https://img.shields.io/badge/Demo-Live%20%E2%86%97-38BDF8?style=flat-square&logo=render&logoColor=0F172A" alt="Live demo"/></a>
+      <a href="https://github.com/Pushkarkv/STOCK_SCREENER"><img src="https://img.shields.io/badge/Repo-View%20%E2%86%97-A78BFA?style=flat-square&logo=github&logoColor=0F172A" alt="Repository"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ ToxGuard</h3>
@@ -164,6 +194,19 @@ stack   : Python · SQL · TypeScript · BigQuery · FastAPI · Next.js
 **More on my GitHub:** [Melanoma Detection](https://github.com/Pushkarkv/Melanoma_Detection_Assignment) (skin-cancer image classification) · [Boom Bikes](https://github.com/Pushkarkv/Boom_Bike_Assignment) (demand prediction with multiple linear regression) · [Lending Club Case Study](https://github.com/Pushkarkv/Lending_Club_Case_Study) · [Fraud Detection](https://github.com/Pushkarkv/fraud_detection) · [Transformers](https://github.com/Pushkarkv/Transformers) (Hugging Face) · [LangChain Practice](https://github.com/Pushkarkv/LangChain_Practice)
 
 <sub>Demos on Render's free tier can take up to a minute to wake up.</sub>
+
+<br/>
+
+## 🎓 Education
+
+<div align="center">
+
+| Programme | Institute | Years |
+|---|---|---|
+| Executive Post Graduate Programme in Machine Learning and Artificial Intelligence | International Institute of Information Technology, Bangalore | 2023 – 2024 |
+| Bachelor of Engineering, Electronics & Communication Engineering | Bangalore Institute of Technology | 2015 – 2019 |
+
+</div>
 
 <br/>
 
