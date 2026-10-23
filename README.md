@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:A855F7&height=210&section=header&text=Pushkar%20Verma&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=Lead%20Machine%20Learning%20Engineer%20%E2%80%A2%20GenAI%20%E2%80%A2%20MLOps&descAlignY=55&descSize=19&animation=fadeIn" width="100%" alt="Pushkar Verma: Lead Machine Learning Engineer, GenAI, MLOps"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=38BDF8&background=00000000&center=true&vCenter=true&width=700&lines=Lead+Machine+Learning+Engineer+%40+Medi+Assist;7%2B+years+in+data+science+and+ML;Ex-Data+Scientist+%40+Ericsson;Agentic+AI+%E2%80%A2+RAG+%E2%80%A2+Vision-Language+Models;MLOps+on+GCP%3A+Vertex+AI%2C+BigQuery%2C+Cloud+Run;From+raw+data+to+a+live+demo" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=38BDF8&background=00000000&center=true&vCenter=true&width=700&lines=Lead+Machine+Learning+Engineer+%40+Medi+Assist;7%2B+years+in+data+science+and+ML;Ex-Data+Scientist+%40+Ericsson;Agentic+AI+%E2%80%A2+RAG+%E2%80%A2+Vision-Language+Models;MLOps+on+GCP%3A+Vertex+AI%2C+BigQuery%2C+Cloud+Run" alt="Typing SVG"/>
 
 <br/>
 
